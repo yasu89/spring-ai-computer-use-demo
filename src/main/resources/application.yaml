@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: computer-use-demo
+  ai:
+    google:
+      genai:
+        project-id: ${GOOGLE_GENAI_PROJECT_ID:}
+        location: global
+        chat:
+          options:
+            computer-use-environment: environment_browser
