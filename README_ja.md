@@ -12,3 +12,5 @@
 ```shell
 ./gradlew bootRun --args="https://testautomationpractice.blogspot.com にアクセスして、Pagination Web Tableの3ページ目で高い商品を2点選択してください"
 ```
+
+https://github.com/user-attachments/assets/572bd3b9-7eb5-400a-bfc3-091fdabb0441
