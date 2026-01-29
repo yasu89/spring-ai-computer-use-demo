@@ -14,3 +14,5 @@ The `GOOGLE_GENAI_PROJECT_ID` environment variable must be set to your GCP proje
 ```shell
 ./gradlew bootRun --args="Access https://testautomationpractice.blogspot.com, go to page 3 of the Pagination Web Table, and select the two most expensive products."
 ```
+
+https://github.com/user-attachments/assets/572bd3b9-7eb5-400a-bfc3-091fdabb0441
